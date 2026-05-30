@@ -13,6 +13,9 @@ I'm a portuguese speaker, but a lot of my projects are in English. I also speak 
 ## Fun fact 🎀
 When Im not coding, I like to do crafts.
 
+<img width="735" height="419" alt="645" src="https://github.com/user-attachments/assets/c5e73865-e90f-48d3-913d-6db905d42211" />
+
+
 
 <!--
 **penellopesilmor/penellopesilmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
