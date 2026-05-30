@@ -13,11 +13,6 @@ I'm a portuguese speaker, but a lot of my projects are in English. I also speak 
 ## Fun fact 🎀
 When Im not coding, I like to do crafts.
 
-<div>
-<a href="https://github.com/penellopesilmor">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penellopesilmor&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?penellopesilmor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <!--
 **penellopesilmor/penellopesilmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
