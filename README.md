@@ -1,6 +1,6 @@
 ## Hello! Olá! 👋
 
-I'm Penéllope Silmor, a brazilian computer science student. I'm current working on educational tools (no digital circus here), learning about new programm languages and studying for college.
+I'm Penéllope, a brazilian computer science student. I'm current working on educational tools (no digital circus here), learning about new programm languages and studying for college.
 
 ## 📚 Education
 - Programmin logic with Python (AlfaHelix)
